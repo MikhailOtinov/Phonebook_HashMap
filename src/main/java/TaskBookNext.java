@@ -27,10 +27,10 @@ public class TaskBookNext {
         Map<String, ArrayList<Long>> bookPhone = new HashMap<>();
         addNumber("Вася", 89925777799L, bookPhone);
         addNumber("Вася", 88005522891L, bookPhone);
-        addNumber("Петя", 87451872, bookPhone);
-        addNumber("Юля", 860852731, bookPhone);
-        addNumber("Коля", 875412688, bookPhone);
-        addNumber("Юля", 890063392, bookPhone);
+        addNumber("Петя", 87451872005L, bookPhone);
+        addNumber("Юля", 86008527311L, bookPhone);
+        addNumber("Коля", 87005412688L, bookPhone);
+        addNumber("Юля", 89006333992L, bookPhone);
         printBook(bookPhone);
     }
 }
